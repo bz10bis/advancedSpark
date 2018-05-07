@@ -1,0 +1,11 @@
+{ "id":6,
+  "types":"csv",
+  "schema":{
+    "separator":",",
+   "search":[
+     {"columnName":"types","operator":"=","columnType":"string", "value":"FL"},
+     {"columnName":"desig","operator":"=","columnType":"string", "value":"NASSAU COUNTY"},
+     {"columnName":"n6","operator":">","columnType":"double", "value":"30000"}
+   ]
+ }
+}
